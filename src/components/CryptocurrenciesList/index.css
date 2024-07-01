@@ -1,0 +1,51 @@
+.cryptoDataCard {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cryptoItemsUl {
+  list-style: none;
+  width: 80%;
+  border: 2px solid #00e7ff;
+  padding: 0px;
+  border-radius: 15px;
+}
+
+.mainHeading {
+  color: #00e7ff;
+}
+
+.headerList {
+  background-color: #092e33;
+  display: flex;
+  padding: 0% 2%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.coinType {
+  width: 70%;
+  color: #ffffff;
+}
+
+.coinType > h1 {
+  font-size: 1.5vw;
+  align-self: center;
+  color: #ffffff;
+}
+
+.usdEuro {
+  display: flex;
+  width: 30%;
+  color: #ffffff;
+}
+
+.usdEuro > h1 {
+  width: 50%;
+  text-align: center;
+  font-size: 1.5vw;
+  align-self: center;
+}

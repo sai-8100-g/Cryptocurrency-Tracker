@@ -1,0 +1,36 @@
+.cryptoList {
+  display: flex;
+  padding: 0% 2%;
+  margin: 0px;
+}
+
+.logoCard {
+  width: 70%;
+  display: flex;
+  margin: 0px;
+}
+
+.logoCard > img {
+  width: 50px;
+  height: 50px;
+  align-self: center;
+  margin-right: 4%;
+}
+
+.name {
+  color: #ffffff;
+  align-self: center;
+  margin: 0px;
+}
+
+
+.usdEuroValues {
+  width: 30%;
+  color: #ffffff;
+  display: flex;
+}
+
+.usdEuroValues > h4 {
+  text-align: center;
+  width: 50%;
+}
